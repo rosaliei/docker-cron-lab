@@ -1,0 +1,1 @@
+echo $(date) >> "/tmp/cron-test.log"
